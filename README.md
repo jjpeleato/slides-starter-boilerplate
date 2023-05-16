@@ -118,14 +118,15 @@ The present project uses several technologies and tools for the automation and d
 9. [Gulp](https://gulpjs.com/)
 10. [JSHint](https://jshint.com/)
 11. [Stylelint](https://stylelint.io/)
-12. [Fontawesome](https://fontawesome.com/)
-13. [EditorConfig](https://editorconfig.org/)
-14. [Husky](https://www.npmjs.com/package/husky)
-15. [Conventional Commits](https://www.conventionalcommits.org/)
-16. [Commitlint](https://commitlint.js.org/)
-17. [Commitizen](http://commitizen.github.io/cz-cli/)
-18. [Human.txt](http://humanstxt.org/)
-19. [Security.txt](https://securitytxt.org/)
+12. [Mark Otto's coding standards](https://codeguide.co/)
+13. [Fontawesome](https://fontawesome.com/)
+14. [EditorConfig](https://editorconfig.org/)
+15. [Husky](https://www.npmjs.com/package/husky)
+16. [Conventional Commits](https://www.conventionalcommits.org/)
+17. [Commitlint](https://commitlint.js.org/)
+18. [Commitizen](http://commitizen.github.io/cz-cli/)
+19. [Human.txt](http://humanstxt.org/)
+20. [Security.txt](https://securitytxt.org/)
 
 **Note:** Thanks all people to work on these projects.
 
